@@ -9,7 +9,8 @@
 
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tabLayout"
-        app:tabMode="scrollable"
+        app:tabMode="fixed"
+
         app:tabIndicatorColor="@color/indicatorColor"
         app:tabIndicatorHeight="5dp"
         android:layout_width="match_parent"
